@@ -32,7 +32,8 @@ I am a tech enthusiast who loves the entire process of writing code to develop f
 
 
 ## ⚡ Fun fact: ...
-I look up to William Muli. Dude's a mad genius, and so am I. Fun fact in fun fact: I met him back in highschool, and I knew his career path would be my career path.
+<i>I look up to William Muli. Dude's a mad genius, and so am I.<br/> <strong>Fun fact in fun fact:</strong> I met him back in highschool, and I knew his career path would be my career path.
+</i>
 
 ##💼 Technical Skills
 
