@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/6df9a7fe23.js" crossorigin="anonymous"></script>
 <p>
 <img height="400" width="100%" src="https://user-images.githubusercontent.com/68201843/158017840-91acba38-b532-4755-aebf-04e4f153f85b.jpg" alt="background">
 </p>
@@ -10,8 +11,8 @@ I am a tech enthusiast who loves the entire process of writing code to develop f
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/beatymueni/"><img align="left" src="https://raw.githubusercontent.com/beaty84/beaty84/main/images/linkedin.svg" alt="Beaty | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/beaty_bee84"><img align="left" src="https://raw.githubusercontent.com/beaty84/beaty84/main/images/instagram.svg" alt="Beaty | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/beatymueni/"><img align="left" <i class="fa-brands fa-linkedin"></i> alt="Beaty | LinkedIn"/></a>
+<a href="https://instagram.com/beaty_bee84"><img align="left" <i class="fa-brands fa-instagram"></i> alt="Beaty | Instagram"/></a>
 
 </br>
 
