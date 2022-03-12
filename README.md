@@ -1,5 +1,5 @@
 <p>
-<img src="https://user-images.githubusercontent.com/68201843/158017840-91acba38-b532-4755-aebf-04e4f153f85b.jpg" alt="background">
+<img height="300" src="https://user-images.githubusercontent.com/68201843/158017840-91acba38-b532-4755-aebf-04e4f153f85b.jpg" alt="background">
 </p>
 
 <h3 align="center">Hi there, I'm Beaty 👋 </h3>
